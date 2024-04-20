@@ -1,3 +1,7 @@
+/* NAME : SUFIYAN ATTAR
+DATE : 20/04/2024
+*/
+
 #include <stdio.h>
 #include "encode.h"
 #include "types.h"
