@@ -18,7 +18,7 @@ The application should provide an option to decrypt the file
 
 This has to be a command-line application and all the options have to be passed as a command-line argument
 
-# Sample Output
+# Screenshots
 
 Fig1: Command Line usage with arguments
 
